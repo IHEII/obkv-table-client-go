@@ -41,7 +41,7 @@ const (
 	odpFullUserName = "..."
 	odpPassWord     = ""
 	odpRpcPort      = 0
-	database        = "..."
+	database        = "...."
 
 	// toml config
 	tomlConfigPath = ""
